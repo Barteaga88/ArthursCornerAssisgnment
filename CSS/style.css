@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Gloria+Hallelujah&display=swap');
+
+
+body {
+  background: #0077ff;
+  color: #000000;
+  margin: 0px;
+
+}
+
+header h1 {
+  color: #fff719;
+  font-size: 290%;
+  text-shadow: 3px 6px #000000;
+
+}
+
+#secondheader {
+  font-size: 80% !important;
+  margin-top:-4px;
+}
+
+.searchbar {
+  float: right;
+  display: block;
+  padding: 2px;
+  margin-top: -35px;
+  margin-right: 5px;
+}
+
+header h4 {
+  font-size: 120%;
+}
+
+ h1 , h2 {
+   font-family: 'Bangers', sans-serif;
+   font-weight: 400 !important;
+   margin-left: 10px;
+   margin-top: 2px;
+   margin-bottom: 1px;
+
+}
+
+h3 {
+  font-family: 'Bangers' , sans-serif;
+  font-size: 150%;
+  font-weight: 100 !important;
+  letter-spacing: 1px;
+}
+
+  h4 {
+    font-family: 'Gloria Hallelujah', sans-serif;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+  }
+  #main-header {
+    border-bottom: 3px solid #000;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+
+  }
+
+  #line1 {
+    font-family: 'Bangers', sans-serif !important;
+  }
+  #topstoriesheader {
+    font-family: 'Bangers' , sans-serif !important;
+    text-align: center !important;
+    font-size: 200%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    background-color: #fff719;
+    background-repeat: repeat;
+    margin-left: -5px;
+
+  }
+
+  #topstoriesarticle:active {
+    opacity: .4 !important;
+  }
+
+
+  #LastestNewshead {
+    font-family: 'Bangers' , sans-serif !important;
+    text-align: center !important;
+    font-size: 200%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    margin-top: -50px;
+    margin-left: -5px;
+    background-color: #fff719;
+  }
+
+  #top-stories {
+    width: 100%;
+    max-width: 100%;
+    margin: auto;
+    padding: 0px;
+    display: inline-flex !important;
+    border: 1px solid #000;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+
+  }
+
+
+ .article-image {
+   max-width: 100%;
+   height: 300px;
+   background-size: cover !important;
+   background-position: center !important;
+   border: 1px solid #000;
+ }
+
+ .readmore {
+   font-style: italic;
+   font-weight: 400;
+ }
+
+ #LastestNews {
+   background-color: #ffffff;
+   margin-top: -20px;
+   margin-left: 2px;
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+ }
