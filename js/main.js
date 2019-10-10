@@ -1,5 +1,11 @@
+var btn = document.getElementById("gohomebtn");
+
+function buttonClicked() {
+    console.log("Button Clicked!");
+    btn.removeEventListener("click", buttonClicked);
+    document.getElementById("gohomebtn").innerHTML = "You're DOOMED!";
+}
 
 
-alert("This is an alert from Java");
 
-console.log("This is a log");
+btn.addEventListener("click", buttonClicked);

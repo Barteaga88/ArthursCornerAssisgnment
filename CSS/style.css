@@ -154,3 +154,11 @@ h3 {
 .topstoriesarticle: :hover {
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5)!important;
 }
+
+#pageerrormessage {
+  font-family: 'Bangers' , sans-serif;
+  font-size: 300%;
+  display: block;
+  
+
+}
